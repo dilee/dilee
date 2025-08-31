@@ -1,36 +1,23 @@
-# Hey, I'm Dileesha 👋
+# Dileesha Rajapakse
 
-## Human Potential Architect | Thriving in the AI Age
+Technical Lead with 8+ years building production systems. Currently working on microservices at DevUpLink and exploring AI/ML applications.
 
-I'm a Technical Lead & Developer with 8+ years of experience, exploring how we can use AI to enhance rather than replace human thinking. Currently helping developers and organizations bridge technical excellence with human wisdom.
+**Location**: Italy | **Experience**: Since 2017 | **Focus**: Backend systems, distributed architecture
 
-### 🌍 Based in Italy | 🚀 Building software for 8+ years | 💡 Focusing on human-centered development
+## Current Work
 
-## 🎯 What I'm Working On
+- Building intelligent ERP systems daily at [DevUpLink](https://devuplink.com/)
+- Developing tools for developer productivity
+- Researching AI for scientific applications
+- Mentoring developers
 
-- **AI & Human Thinking**: Exploring ways to help developers maintain problem-solving skills in the AI age
-- **Developer Mentorship**: 1-on-1 sessions focusing on the 'why' behind the code
-- **Building Tools**: Creating solutions that enhance rather than replace human capabilities
-- **Writing & Speaking**: Sharing insights about thriving as developers in the age of AI
+## What I Do
 
-## 💡 Core Expertise
+**Backend Development**: Designing and implementing distributed systems, microservices, and APIs. Primary experience with Java/Spring Boot, Python/Flask, and C#/.NET Core.
 
-### Backend Architecture
-Still designing scalable systems and APIs that handle millions of requests, now with a focus on maintainability and developer experience.
-- **8+ years** building systems that scale both technically and cognitively
-- **Tech Stack**: Java, Spring Boot, Python, Flask, C#, ASP.NET Core, Node.js
-- **Focus**: Microservices, RESTful APIs, System Design, Performance Optimization
+**System Architecture**: Building scalable solutions handling high traffic loads. Focus on performance optimization, reliability, and maintainability.
 
-### Developer Mentorship
-Helping developers navigate the AI age while maintaining their problem-solving skills.
-- **Approach**: Focusing on the 'why' behind the code
-- **Areas**: 1-on-1 Mentoring, Career Guidance, Code Reviews, Best Practices
-- **Goal**: Mentoring the next generation to think critically, not just copy-paste
-
-### Frontend Engineering
-Creating interfaces that respect both user experience and developer sanity.
-- **Tech**: React, TypeScript, Vue.js, JavaScript
-- **Focus**: User Experience, Performance, Component Architecture
+**Developer Mentoring**: Teaching at IIT and conducting 1-on-1 sessions with developers. Emphasis on fundamentals and problem-solving skills.
 
 ## 🛠️ Tech Stack
 
@@ -51,7 +38,6 @@ Creating interfaces that respect both user experience and developer sanity.
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -60,16 +46,31 @@ Creating interfaces that respect both user experience and developer sanity.
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
+## 🚀 Latest Projects
+
+### [Zen Dev Toolkit](https://github.com/dilee/zen-dev-toolkit)
+A lightweight macOS menu bar application providing developers with quick access to essential utilities. Features JSON formatting, Base64/URL encoding, hash generation, JWT tools and more - all processed locally for privacy.
+- **Tech**: Swift 5.9+, SwiftUI, macOS
+- **Focus**: Developer productivity, privacy-first design, native performance
+
+### [Symbiont Core](https://github.com/dilee/symbiont-core)
+A neuro-symbolic framework for guiding generative AI in scientific discovery. Transforms AI from a blunt instrument into a precise, steerable partner by combining neural networks with symbolic reasoning.
+- **Tech**: Python, PyTorch, Transformers
+- **Focus**: AI-guided research, constraint-based generation, scientific computing
+
 ## 📚 Career Journey
 
-- **2024-Present**: Technical Lead @ DevUpLink - Leading microservices solutions and key customer projects
-- **2021-2024**: Software Engineer @ WSO2 - Building cutting-edge software solutions
-- **2021-2024**: Visiting Lecturer @ IIT Campus - Mentoring undergraduate students
-- **2020-2021**: Full Stack Developer @ Freelance - Diverse project implementations
-- **2019-2020**: Research Intern @ University of Westminster
+- **May 2023 - Present**: Technical Lead @ DevUpLink LLC - Spearheading microservices solutions
+- **Nov 2021 - Apr 2023**: Associate Technical Lead @ WSO2 - Led development of WSO2 Choreo platform
+- **Jan 2020 - Nov 2021**: Senior Software Engineer @ WSO2 - Developed WSO2 EI Integration Studio
+- **Jul 2020 - Jul 2021**: Head of Technology Forum @ SLASSCOM (Part-time) - Led tech strategy initiatives
+- **Feb 2019 - Feb 2022**: Visiting Lecturer @ IIT Campus (Part-time) - Mentored students while at WSO2
+- **Jul 2018 - Jan 2020**: Software Engineer @ WSO2 - Major contributor to Enterprise Integrator
+- **2014 - 2017**: BEng Computer Software Engineering @ University of Westminster
 
 ## ✍️ Writing & Thoughts
 
