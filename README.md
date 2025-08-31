@@ -11,14 +11,6 @@ Technical Lead with 8+ years building production systems. Currently working on m
 - Researching AI for scientific applications
 - Mentoring developers
 
-## What I Do
-
-**Backend Development**: Designing and implementing distributed systems, microservices, and APIs. Primary experience with Java/Spring Boot, Python/Flask, and C#/.NET Core.
-
-**System Architecture**: Building scalable solutions handling high traffic loads. Focus on performance optimization, reliability, and maintainability.
-
-**Developer Mentoring**: Teaching at IIT and conducting 1-on-1 sessions with developers. Emphasis on fundamentals and problem-solving skills.
-
 ## 🛠️ Tech Stack
 
 **Languages**  
@@ -54,27 +46,11 @@ Technical Lead with 8+ years building production systems. Currently working on m
 
 ### [Zen Dev Toolkit](https://github.com/dilee/zen-dev-toolkit)
 A lightweight macOS menu bar application providing developers with quick access to essential utilities. Features JSON formatting, Base64/URL encoding, hash generation, JWT tools and more - all processed locally for privacy.
-- **Tech**: Swift 5.9+, SwiftUI, macOS
-- **Focus**: Developer productivity, privacy-first design, native performance
 
 ### [Symbiont Core](https://github.com/dilee/symbiont-core)
 A neuro-symbolic framework for guiding generative AI in scientific discovery. Transforms AI from a blunt instrument into a precise, steerable partner by combining neural networks with symbolic reasoning.
-- **Tech**: Python, PyTorch, Transformers
-- **Focus**: AI-guided research, constraint-based generation, scientific computing
-
-## 📚 Career Journey
-
-- **May 2023 - Present**: Technical Lead @ DevUpLink LLC - Spearheading microservices solutions
-- **Nov 2021 - Apr 2023**: Associate Technical Lead @ WSO2 - Led development of WSO2 Choreo platform
-- **Jan 2020 - Nov 2021**: Senior Software Engineer @ WSO2 - Developed WSO2 EI Integration Studio
-- **Jul 2020 - Jul 2021**: Head of Technology Forum @ SLASSCOM (Part-time) - Led tech strategy initiatives
-- **Feb 2019 - Feb 2022**: Visiting Lecturer @ IIT Campus (Part-time) - Mentored students while at WSO2
-- **Jul 2018 - Jan 2020**: Software Engineer @ WSO2 - Major contributor to Enterprise Integrator
-- **2014 - 2017**: BEng Computer Software Engineering @ University of Westminster
 
 ## ✍️ Writing & Thoughts
-
-I write about the intersection of human potential and technology, sharing insights on how developers can thrive in the AI age.
 
 - 📝 **Substack**: [substack.com/@dilee](https://substack.com/@dilee)
 - 📖 **Medium**: [medium.com/@dileesha](https://medium.com/@dileesha)
