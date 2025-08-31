@@ -1,4 +1,4 @@
-# Dileesha Rajapakse
+# Dileesha R.
 
 Technical Lead with 8+ years building production systems. Currently working on microservices at DevUpLink and exploring AI/ML applications.
 
